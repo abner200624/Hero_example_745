@@ -13,7 +13,7 @@ public class Main {
         ironMan.alias="Ironman";
         ironMan.actor ="Robert Downey Jr";
         ironMan.gender="Male";
-        ironMan.skill = new String[]{"Billionarie","Fly","Laser","Weapons","Fight","Nanotech","Wifi"};
+        ironMan.skill = new String[]{"Billionarie","Fly","Laser","Weapons","Fight","Nanotech","Artificial Intelligence"};
 
 
         System.out.println(spiderMan);
